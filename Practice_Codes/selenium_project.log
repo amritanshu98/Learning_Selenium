@@ -1,0 +1,64 @@
+2026-04-08 12:19:34,071 - INFO - Logger initialized successfully!
+2026-04-08 12:19:35,720 - INFO - Chrome browser started
+2026-04-08 12:19:35,782 - INFO - Window Maximized
+2026-04-08 12:19:36,702 - INFO - Navigated to Practice Qqabrains
+2026-04-08 12:19:36,955 - INFO - Username Entered
+2026-04-08 12:19:37,060 - INFO - Password Entered
+2026-04-08 12:19:37,201 - INFO - Login Button Clicked
+2026-04-08 12:19:44,377 - INFO - Chrome browser started
+2026-04-08 12:19:44,443 - INFO - Window Maximized
+2026-04-08 12:19:45,489 - INFO - Navigated to Practice Qqabrains
+2026-04-08 12:19:45,736 - INFO - Username Entered
+2026-04-08 12:19:45,845 - INFO - Password Entered
+2026-04-08 12:19:45,973 - INFO - Login Button Clicked
+2026-04-08 12:19:53,039 - INFO - Chrome browser started
+2026-04-08 12:21:52,244 - INFO - Logger initialized successfully!
+2026-04-08 12:21:53,909 - INFO - Chrome browser started
+2026-04-08 12:21:53,961 - INFO - Window Maximized
+2026-04-08 12:21:54,528 - INFO - Navigated to Practice Qqabrains
+2026-04-08 12:21:55,065 - INFO - Username Entered
+2026-04-08 12:21:55,170 - INFO - Password Entered
+2026-04-08 12:21:55,284 - INFO - Login Button Clicked
+2026-04-08 12:22:00,440 - INFO - Login Failed: Neither email nor password matched.
+2026-04-08 12:22:04,352 - INFO - Chrome browser started
+2026-04-08 12:22:04,414 - INFO - Window Maximized
+2026-04-08 12:22:04,619 - INFO - Navigated to Practice Qqabrains
+2026-04-08 12:22:05,807 - INFO - Username Entered
+2026-04-08 12:22:05,917 - INFO - Password Entered
+2026-04-08 12:22:06,044 - INFO - Login Button Clicked
+2026-04-08 12:22:11,167 - INFO - Login Failed: Neither email nor password matched.
+2026-04-08 12:22:15,102 - INFO - Chrome browser started
+2026-04-08 12:22:15,177 - INFO - Window Maximized
+2026-04-08 12:22:15,428 - INFO - Navigated to Practice Qqabrains
+2026-04-08 12:22:16,509 - INFO - Username Entered
+2026-04-08 12:22:16,623 - INFO - Password Entered
+2026-04-08 12:22:16,744 - INFO - Login Button Clicked
+2026-04-08 12:22:21,828 - INFO - Login Successful
+2026-04-08 12:22:25,779 - INFO - Chrome browser started
+2026-04-08 12:22:25,835 - INFO - Window Maximized
+2026-04-08 12:22:26,519 - INFO - Navigated to Practice Qqabrains
+2026-04-08 12:22:27,106 - INFO - Username Entered
+2026-04-08 12:22:27,236 - INFO - Password Entered
+2026-04-08 12:22:27,397 - INFO - Login Button Clicked
+2026-04-08 12:22:32,529 - INFO - Login Failed: Username matched but password is incorrect.
+2026-04-08 12:22:36,506 - INFO - Chrome browser started
+2026-04-08 12:22:36,573 - INFO - Window Maximized
+2026-04-08 12:22:37,699 - INFO - Navigated to Practice Qqabrains
+2026-04-08 12:22:37,974 - INFO - Username Entered
+2026-04-08 12:22:38,118 - INFO - Password Entered
+2026-04-08 12:22:38,247 - INFO - Login Button Clicked
+2026-04-08 12:22:43,311 - INFO - Login Successful
+2026-04-08 12:22:47,702 - INFO - Chrome browser started
+2026-04-08 12:22:47,769 - INFO - Window Maximized
+2026-04-08 12:22:48,769 - INFO - Navigated to Practice Qqabrains
+2026-04-08 12:22:49,030 - INFO - Username Entered
+2026-04-08 12:22:49,161 - INFO - Password Entered
+2026-04-08 12:22:49,288 - INFO - Login Button Clicked
+2026-04-08 12:22:54,416 - INFO - Login Failed: Neither email nor password matched.
+2026-04-08 12:22:58,883 - INFO - Chrome browser started
+2026-04-08 12:22:58,939 - INFO - Window Maximized
+2026-04-08 12:23:00,081 - INFO - Navigated to Practice Qqabrains
+2026-04-08 12:23:00,369 - INFO - Username Entered
+2026-04-08 12:23:00,478 - INFO - Password Entered
+2026-04-08 12:23:00,597 - INFO - Login Button Clicked
+2026-04-08 12:23:05,658 - INFO - Login Successful
