@@ -8,7 +8,8 @@ def test_web_tables():
 
     table = driver.find_element(By.XPATH, "//table[@summary='Sample Table']/tbody")
 
-    row_table = driver.find_elements(By.XPATH, "//table[@summary='Sample Table']/tbody/tr")
+    # row_table = driver.find_elements(By.XPATH, "//table[@summary='Sample Table']/tbody/tr")
+    row_table = table.find_elements(By.XPATH, "./tr")
 
     for row in row_table:
         col_table = row.find_elements(By.TAG_NAME, "td")
@@ -17,5 +18,6 @@ def test_web_tables():
 
             if "China" in col.text:
                 city_path = driver.find_elements(By.XPATH, "//table[@summary='Sample Table']/tbody/tr/td/following-sibling::td[1]")
+                # city_path = table.find_elements(By.XPATH, "/tr/td/following-sibling::td[1]")
                 city_data = col.find_element(By.XPATH, "following-sibling::td[1]").text
                 print(city_data)
